@@ -9,7 +9,7 @@ const App = () =>{
     let foundLocation = []
     let tempLocation
     
-    const apiKey = "0a1a887da1e5fdb4d28ed506f88c2eb2"
+    const apiKey = "______" //api key here 
     
     const backGroundStyle = {
         backgroundImage: `url("./src/assets/${weather}.jpg")`
